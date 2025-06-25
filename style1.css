@@ -1083,6 +1083,7 @@ html, body {
     flex-direction: column;
     gap: 18px;
     align-items: center;
+    margin-left: -16px;
   }
 
   .membro-equipe {
