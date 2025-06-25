@@ -97,6 +97,7 @@ body {
     width: 100%;
     gap: 18px;
     justify-content: center;
+    margin: 0 auto;
   }
 
   .membro-equipe {
@@ -106,6 +107,8 @@ body {
     height: auto;
     padding: 16px 0;
     text-align: center;
+    justify-content: center;
+align-items: center;
   }
 
   .coluna.estilizada,
