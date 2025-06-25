@@ -114,11 +114,8 @@ align-items: center;
   .container-equipe {
   display: flex;
   justify-content: center;    /* Centraliza no meio da tela */
-  align-items: start;         /* Alinha no topo */
-  flex-wrap: wrap;            /* Quebra linha se precisar */
-  gap: 30px;                  /* Espaço entre os membros */
-  padding: 40px;
-  max-width: 1200px;
+  align-items: start;  
+  align-items: center;       /* Alinha no topo */
   margin: 0 auto;             /* Centraliza o container */
 }
 
