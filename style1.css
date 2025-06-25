@@ -105,13 +105,11 @@ body {
     max-width: 350px;
     margin: 0 auto;
     height: auto;
-    padding: 16px 0;
+    padding: 20px ;
     text-align: center;
-    justify-content: center;
-align-items: center;
   }
 
-  .container-equipe {
+  .containerequipemega {
   display: flex;
   justify-content: center;    
   align-items: center;     
