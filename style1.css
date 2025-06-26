@@ -105,15 +105,12 @@ body {
     max-width: 350px;
     margin: 0 auto;
     height: auto;
-    padding: 20px ;
+    padding: 16px 0;
     text-align: center;
+    justify-content: center;
+align-items: center;
   }
-
-  .containerequipemega {
-  display: flex;
-  justify-content: center;    
-  align-items: center;     
-}
+  
 
   .coluna.estilizada,
   .coluna-centro.estilizada,
@@ -1197,3 +1194,7 @@ html, body {
   }
   }
  
+  .megacontainer-equipe{
+    display: flex;
+    flex-wrap: wrap;
+  }
